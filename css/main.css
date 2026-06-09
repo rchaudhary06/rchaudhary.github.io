@@ -1,7 +1,10 @@
+* {
+    background: red ;
+}
+
 body {
   margin: 60px auto;
   width: 70%;
-  background-color: red;
 }
 
 nav ul, footer ul {
