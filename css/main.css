@@ -1,11 +1,9 @@
-* {
-    background: #243280;
-}
 
 body {
   margin: 60px auto;
   width: 70%;
-    color: #e8e8e8;
+  color: #e8e8e8;
+  background-color: #243280;
 }
 
 .container {
