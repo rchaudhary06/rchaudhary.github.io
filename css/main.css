@@ -65,15 +65,13 @@ footer {
   font-size: 0.8em;
 }
 
-
-ul.posts {
-  margin: 20px auto 40px;
-  font-size: 1.5em;
+footer ul {
+  display: flex;
+  align-items: center;
 }
 
-ul.posts li {
-  list-style: none;
+.date {
+  margin-left: auto;
 }
 
-  
   
