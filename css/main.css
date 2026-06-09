@@ -8,6 +8,13 @@ body {
     color: #e8e8e8;
 }
 
+.container {
+    background-color: #f8f5f0;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.3);
+}
+
 nav ul, footer ul {
   font-size: 1em;
   font-family: 'Times New Roman','Serif';
